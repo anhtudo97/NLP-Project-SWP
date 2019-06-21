@@ -80,7 +80,7 @@ public class Main {
                 }
                 if (!line.contains("</content>") && contentFlg) {
                     if (!line.contains("Ảnh:") && !line.contains("<") && !line.contains(">") && !line.contains("\\") && !line.contains("@") && !line.contains("!") && !line.contains("#") && !line.contains("$") && !line.contains("[") && !line.contains("]") && !line.contains("'") && !line.contains("|") && !line.contains("…") && !line.contains("/")) {
-                        if (!line.contains("%") && !line.contains("^") && !line.contains("&") && !line.contains("*") && !line.contains("(") && !line.contains(")") && !line.contains(" - ") && !line.contains("+") && !line.contains("=") && !line.contains("{") && !line.contains("}") && !line.contains("\"") && !line.contains("”") && !line.contains("“")) {
+                        if (!line.contains(":") && !line.contains(";") &&!line.contains("%") && !line.contains("^") && !line.contains("&") && !line.contains("*") && !line.contains("(") && !line.contains(")") && !line.contains(" - ") && !line.contains("+") && !line.contains("=") && !line.contains("{") && !line.contains("}") && !line.contains("\"") && !line.contains("”") && !line.contains("“")) {
                             line = line.replace(" , ", ", ");
                             line = line.replaceAll("\\s+\\.$", ".");
                             line = line.replaceAll("\\s+\\?$", "?");
