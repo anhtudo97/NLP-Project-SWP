@@ -79,8 +79,17 @@ public class Main {
                     continue;
                 }
                 if (!line.contains("</content>") && contentFlg) {
-                    if (!line.contains("Ảnh:") && !line.contains("<") && !line.contains(">") && !line.contains("\\")) {
-                        content += line.trim() + "\n";
+                    if (!line.contains("Ảnh:") && !line.contains("<") && !line.contains(">") && !line.contains("\\") && !line.contains("@") && !line.contains("!") && !line.contains("#") && !line.contains("$") && !line.contains("[") && !line.contains("]") && !line.contains("'") && !line.contains("|") && !line.contains("…") && !line.contains("/")) {
+                        if (!line.contains("%") && !line.contains("^") && !line.contains("&") && !line.contains("*") && !line.contains("(") && !line.contains(")") && !line.contains(" - ") && !line.contains("+") && !line.contains("=") && !line.contains("{") && !line.contains("}") && !line.contains("\"") && !line.contains("”") && !line.contains("“")) {
+                            line = line.replace(" , ", ", ");
+                            line = line.replaceAll("\\s+\\.$", ".");
+                            line = line.replaceAll("\\s+\\?$", "?");
+                                                        line = line.replaceAll("\\s+\\?\\.$", "?");
+
+                            line = line.replaceAll(".. ", ". ");
+                            line = line.replaceAll("\\s+", " ");
+                            content += line.trim() + "\n";
+                        }
                     }
                     continue;
                 }
