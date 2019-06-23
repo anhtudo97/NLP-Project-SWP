@@ -1,5 +1,5 @@
-# NLP-Project-SWP
+### NLP-Project-SWP
 
 ## Tool nối file
-**Nhập đường dẫn thư mục chứa file cần nối**
-**Nhập đường dẫn thư mục file xuất ra**
+<p>Nhập đường dẫn <strong>thư mục chứa file cần nối</strong><p>
+<p>Nhập đường dẫn <strong>thư mục file xuất ra</strong><p>
