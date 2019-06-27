@@ -283,6 +283,10 @@ oà
 oả
 oã
 oạ
+oác
+oạc
+oách
+oạch
 oai
 oái
 oài
@@ -301,6 +305,8 @@ oành
 oảnh
 oãnh
 oạnh
+oáp
+oạp
 oay
 oáy
 oày
@@ -962,6 +968,10 @@ boà
 boả
 boã
 boạ
+boác
+boạc
+boách
+boạch
 boai
 boái
 boài
@@ -980,6 +990,8 @@ boành
 boảnh
 boãnh
 boạnh
+boáp
+boạp
 boay
 boáy
 boày
@@ -1471,6 +1483,10 @@ coà
 coả
 coã
 coạ
+coác
+coạc
+coách
+coạch
 coai
 coái
 coài
@@ -1489,6 +1505,8 @@ coành
 coảnh
 coãnh
 coạnh
+coáp
+coạp
 coay
 coáy
 coày
@@ -2126,6 +2144,10 @@ doà
 doả
 doã
 doạ
+doác
+doạc
+doách
+doạch
 doai
 doái
 doài
@@ -2144,6 +2166,8 @@ doành
 doảnh
 doãnh
 doạnh
+doáp
+doạp
 doay
 doáy
 doày
@@ -2781,6 +2805,10 @@ duyệt
 đoả
 đoã
 đoạ
+đoác
+đoạc
+đoách
+đoạch
 đoai
 đoái
 đoài
@@ -2799,6 +2827,8 @@ duyệt
 đoảnh
 đoãnh
 đoạnh
+đoáp
+đoạp
 đoay
 đoáy
 đoày
@@ -3302,6 +3332,10 @@ goà
 goả
 goã
 goạ
+goác
+goạc
+goách
+goạch
 goai
 goái
 goài
@@ -3320,6 +3354,8 @@ goành
 goảnh
 goãnh
 goạnh
+goáp
+goạp
 goay
 goáy
 goày
@@ -3957,6 +3993,10 @@ hoà
 hoả
 hoã
 hoạ
+hoác
+hoạc
+hoách
+hoạch
 hoai
 hoái
 hoài
@@ -3975,6 +4015,8 @@ hoành
 hoảnh
 hoãnh
 hoạnh
+hoáp
+hoạp
 hoay
 hoáy
 hoày
@@ -4764,6 +4806,10 @@ loà
 loả
 loã
 loạ
+loác
+loạc
+loách
+loạch
 loai
 loái
 loài
@@ -4782,6 +4828,8 @@ loành
 loảnh
 loãnh
 loạnh
+loáp
+loạp
 loay
 loáy
 loày
@@ -5419,6 +5467,10 @@ moà
 moả
 moã
 moạ
+moác
+moạc
+moách
+moạch
 moai
 moái
 moài
@@ -5437,6 +5489,8 @@ moành
 moảnh
 moãnh
 moạnh
+moáp
+moạp
 moay
 moáy
 moày
@@ -6074,6 +6128,10 @@ noà
 noả
 noã
 noạ
+noác
+noạc
+noách
+noạch
 noai
 noái
 noài
@@ -6092,6 +6150,8 @@ noành
 noảnh
 noãnh
 noạnh
+noáp
+noạp
 noay
 noáy
 noày
@@ -6729,6 +6789,10 @@ poà
 poả
 poã
 poạ
+poác
+poạc
+poách
+poạch
 poai
 poái
 poài
@@ -6747,6 +6811,8 @@ poành
 poảnh
 poãnh
 poạnh
+poáp
+poạp
 poay
 poáy
 poày
@@ -7384,6 +7450,10 @@ roà
 roả
 roã
 roạ
+roác
+roạc
+roách
+roạch
 roai
 roái
 roài
@@ -7402,6 +7472,8 @@ roành
 roảnh
 roãnh
 roạnh
+roáp
+roạp
 roay
 roáy
 roày
@@ -8039,6 +8111,10 @@ soà
 soả
 soã
 soạ
+soác
+soạc
+soách
+soạch
 soai
 soái
 soài
@@ -8057,6 +8133,8 @@ soành
 soảnh
 soãnh
 soạnh
+soáp
+soạp
 soay
 soáy
 soày
@@ -8694,6 +8772,10 @@ toà
 toả
 toã
 toạ
+toác
+toạc
+toách
+toạch
 toai
 toái
 toài
@@ -8712,6 +8794,8 @@ toành
 toảnh
 toãnh
 toạnh
+toáp
+toạp
 toay
 toáy
 toày
@@ -9349,6 +9433,10 @@ voà
 voả
 voã
 voạ
+voác
+voạc
+voách
+voạch
 voai
 voái
 voài
@@ -9367,6 +9455,8 @@ voành
 voảnh
 voãnh
 voạnh
+voáp
+voạp
 voay
 voáy
 voày
@@ -10004,6 +10094,10 @@ xoà
 xoả
 xoã
 xoạ
+xoác
+xoạc
+xoách
+xoạch
 xoai
 xoái
 xoài
@@ -10022,6 +10116,8 @@ xoành
 xoảnh
 xoãnh
 xoạnh
+xoáp
+xoạp
 xoay
 xoáy
 xoày
@@ -10659,6 +10755,10 @@ choà
 choả
 choã
 choạ
+choác
+choạc
+choách
+choạch
 choai
 choái
 choài
@@ -10677,6 +10777,8 @@ choành
 choảnh
 choãnh
 choạnh
+choáp
+choạp
 choay
 choáy
 choày
@@ -11466,6 +11568,10 @@ khoà
 khoả
 khoã
 khoạ
+khoác
+khoạc
+khoách
+khoạch
 khoai
 khoái
 khoài
@@ -11484,6 +11590,8 @@ khoành
 khoảnh
 khoãnh
 khoạnh
+khoáp
+khoạp
 khoay
 khoáy
 khoày
@@ -11975,6 +12083,10 @@ ngoà
 ngoả
 ngoã
 ngoạ
+ngoác
+ngoạc
+ngoách
+ngoạch
 ngoai
 ngoái
 ngoài
@@ -11993,6 +12105,8 @@ ngoành
 ngoảnh
 ngoãnh
 ngoạnh
+ngoáp
+ngoạp
 ngoay
 ngoáy
 ngoày
@@ -12782,6 +12896,10 @@ nhoà
 nhoả
 nhoã
 nhoạ
+nhoác
+nhoạc
+nhoách
+nhoạch
 nhoai
 nhoái
 nhoài
@@ -12800,6 +12918,8 @@ nhoành
 nhoảnh
 nhoãnh
 nhoạnh
+nhoáp
+nhoạp
 nhoay
 nhoáy
 nhoày
@@ -13437,6 +13557,10 @@ phoà
 phoả
 phoã
 phoạ
+phoác
+phoạc
+phoách
+phoạch
 phoai
 phoái
 phoài
@@ -13455,6 +13579,8 @@ phoành
 phoảnh
 phoãnh
 phoạnh
+phoáp
+phoạp
 phoay
 phoáy
 phoày
@@ -14092,6 +14218,10 @@ thoà
 thoả
 thoã
 thoạ
+thoác
+thoạc
+thoách
+thoạch
 thoai
 thoái
 thoài
@@ -14110,6 +14240,8 @@ thoành
 thoảnh
 thoãnh
 thoạnh
+thoáp
+thoạp
 thoay
 thoáy
 thoày
@@ -14747,6 +14879,10 @@ troà
 troả
 troã
 troạ
+troác
+troạc
+troách
+troạch
 troai
 troái
 troài
@@ -14765,6 +14901,8 @@ troành
 troảnh
 troãnh
 troạnh
+troáp
+troạp
 troay
 troáy
 troày
@@ -15332,6 +15470,10 @@ gioà
 gioả
 gioã
 gioạ
+gioác
+gioạc
+gioách
+gioạch
 gioai
 gioái
 gioài
@@ -15350,6 +15492,8 @@ gioành
 gioảnh
 gioãnh
 gioạnh
+gioáp
+gioạp
 gioay
 gioáy
 gioày
