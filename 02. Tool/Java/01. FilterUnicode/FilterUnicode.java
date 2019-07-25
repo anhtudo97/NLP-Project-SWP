@@ -34,7 +34,7 @@ public class FilterUnicode {
         ArrayList<String> dictionary = readDict("dict.txt");
         // load tất cả các link từ folder - chỗ này nhập folder nhé
        //String folderPath = "F:\\course\\09 - SUMMER2019\\Capstone_\\data TuDA\\DataTest"; //03. SortByCategory
-        String folderPath = "03. SortByCategory(new)";
+        String folderPath = "F:\\course\\09 - SUMMER2019\\Capstone\\trunk\\02. Tool\\Java\\data";
         ArrayList<String> allLinkFile = listAllFiles(folderPath);
         FileManager fileManager = new FileManager(allLinkFile, dictionary, folderPath);
         fileManager.export();
@@ -153,7 +153,7 @@ public class FilterUnicode {
 
         public String getFileName() {
             File f = new File(filePath);
-            System.out.println("Export " + f.getName() + "...");
+            //System.out.println("Export " + f.getName() + "...");
             return f.getName();
         }
 
@@ -189,7 +189,7 @@ public class FilterUnicode {
             boolean blCheck = true;
             for (String line : contents) {
                 blCheck = true;
-                System.out.println(getFileName() + ": " + line);
+                //System.out.println(getFileName() + ": " + line);
                 line = checkLine(line);
                 if (line.equals("")) {
                     continue;
@@ -273,7 +273,7 @@ public class FilterUnicode {
                     if (line.charAt(i) == '…') {
                         if (i != line.length() - 1) {
                             if (!toanList.contains(String.valueOf(line.charAt(i+1)))) {
-                                System.out.println(line.charAt(i+1));
+                                //System.out.println(line.charAt(i+1));
                                 //line = line.replaceAll("…", ". ");
                                 line = line.replaceFirst("…", ". ");
                                 //line.charAt(i) = '.';
@@ -284,7 +284,7 @@ public class FilterUnicode {
                             line = line.replaceAll("…", ". ");
                         }
 
-                        System.out.println(line);
+                        //System.out.println(line);
 
                     }
                 }
@@ -478,7 +478,7 @@ public class FilterUnicode {
             }
             if (word.contains("...")) {
                 String newWord = word.replace("...", "");
-                System.out.println("");
+                //System.out.println("");
             }
 
             if (word.charAt(word.length() - 1) == '.' || word.charAt(word.length() - 1) == ',' || word.charAt(word.length() - 1) == '?') {

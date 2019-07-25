@@ -59,9 +59,9 @@ if ( !Character.isUpperCase( content.charAt(0)) && !Character.isDigit(content.ch
                 content = content.replaceAll("(Dr|Ms|Mrs|Mr|mr|dr|ms|mrs)\\s*\\.", "$1.");
                 content = content.replaceAll("\\s+", " ");
                 content = content.trim();
-		//System.out.println(getFileName() + ": " + content);
-                this.contents.add(content);
-                //số
+		        if (content.split("\\s+").length >= 5) {
+                    this.contents.add(content);
+                }
             }
         }
         public String getFileName() {
