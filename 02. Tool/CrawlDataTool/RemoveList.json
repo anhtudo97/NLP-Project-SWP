@@ -39,7 +39,82 @@
 		{
 			"Id":"10",
 			"Pattern":"^ "
+		},
+		{
+			"Id":"11",
+			"Pattern":"^\\s*.*&agrave.*"
+		},
+		{
+			"Id":"12",
+			"Pattern":"^\\s*.*&#8211.*"
+		},
+		{
+			"Id":"13",
+			"Pattern":"^\\s*.*».*"
+		},
+		{
+			"Id":"14",
+			"Pattern":"^\\s*.*&#8220.*"
+		},
+		{
+			"Id":"15",
+			"Pattern":"^\\s*.*&#8230.*"
+		},
+		{
+			"Id":"16",
+			"Pattern":"^\\s*.*&quot.*"
+		},
+		{
+			"Id":"17",
+			"Pattern":"^\\s*.*&amp.*"
+		},
+		{
+			"Id":"18",
+			"Pattern":"^\\s*.*&nbsp.*"
+		},
+		{
+			"Id":"19",
+			"Pattern":"^\\s*.*&#\\d+.*"
+		},
+		{
+			"Id":"20",
+			"Pattern":"^\\s*.*&ugrave.*"
+		},
+		{
+			"Id":"21",
+			"Pattern":"^\\s*.*&igrave.*"
+		},
+		{
+			"Id":"22",
+			"Pattern":"^\\s*.*&\\w+;.*"
+		},
+		{
+			"Id":"23",
+			"Pattern":"^\\s*.*trang chuyên mục trên máy tính \\(.*"
+		},
+		{
+			"Id":"24",
+			"Pattern":"^\\s*.*中文.*"
+		},
+		{
+			"Id":"25",
+			"Pattern":"^\\s*.*&#\\w+;.*"
+		},
+		{
+			"Id":"26",
+			"Pattern":"^\\s*.*TTO - .*"
+		},
+		{
+			"Id":"27",
+			"Pattern":"^\\s*.*https:.*"
+		},
+		{
+			"Id":"28",
+			"Pattern":"^\\s*.*</form>.*"
+		},
+		{
+			"Id":"29",
+			"Pattern":"^\\s*.*Quyền riêng tư · .*"
 		}
-
 	]
 }
